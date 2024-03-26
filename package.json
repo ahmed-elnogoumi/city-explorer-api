@@ -1,7 +1,7 @@
 {
   "name": "city-explorer-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Author**: Your Name Goes Here\r **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.18.3"
+    "express": "^4.19.2"
   }
 }
